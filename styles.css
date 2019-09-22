@@ -1,3 +1,5 @@
 body {
   background-image: url(images/6-AADT_Photographed-by-Solwazi-Afi-Olusola-140.jpg);
   background-size:cover;
+  background-repeat: no-repeat;
+}

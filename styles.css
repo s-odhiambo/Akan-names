@@ -7,3 +7,9 @@ body {
 img{
   z-index: -500%;
   }
+
+  .akan p{
+    font-family: 'Cute Font', cursive;
+    font-size: 30px;
+    color:whitesmoke;
+  }
